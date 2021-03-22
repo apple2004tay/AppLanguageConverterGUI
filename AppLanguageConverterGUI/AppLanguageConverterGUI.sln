@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLanguageConverterGUI", "AppLanguageConverterGUI\AppLanguageConverterGUI.csproj", "{75D99630-4C1C-4BC7-B5EC-A68121D23974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLanguageConverter", "AppLanguageConverter\AppLanguageConverter.csproj", "{BFCC6C6F-E4CF-467A-B941-22FF6CF0273D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D99630-4C1C-4BC7-B5EC-A68121D23974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D99630-4C1C-4BC7-B5EC-A68121D23974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D99630-4C1C-4BC7-B5EC-A68121D23974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D99630-4C1C-4BC7-B5EC-A68121D23974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFCC6C6F-E4CF-467A-B941-22FF6CF0273D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCC6C6F-E4CF-467A-B941-22FF6CF0273D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCC6C6F-E4CF-467A-B941-22FF6CF0273D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCC6C6F-E4CF-467A-B941-22FF6CF0273D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E54D7A3A-F417-4480-8C0C-AEAEE242E301}
+	EndGlobalSection
+EndGlobal
